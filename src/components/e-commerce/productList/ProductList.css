@@ -1,0 +1,11 @@
+.ProductList {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    padding: 20px;
+}
+.spin{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}

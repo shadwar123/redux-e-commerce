@@ -1,0 +1,33 @@
+.SingleProduct {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+
+.productImg {
+    width: 350px;
+    height: 405px;
+}
+
+.productInfo {
+    padding: 20px;
+}
+
+.cartInfo {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+
+} 
+.curQuantity{
+    font-size: 3rem;
+}
+.button {
+    border: none;
+    background-color: white;
+    font-size: 3rem;
+}
+.productPrice{
+    font-size: 2rem;
+    margin: 0px
+}
